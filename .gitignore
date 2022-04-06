@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# mac relate
+_MAC
 # C extensions
 *.so
 
